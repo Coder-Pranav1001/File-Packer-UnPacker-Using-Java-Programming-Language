@@ -1,4 +1,4 @@
-=============================== File Packer & Unpacker (Java) ================================
+=========== File Packer & Unpacker (Java) ===========
 
 
 Description:
